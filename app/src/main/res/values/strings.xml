@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Try on app</string>
+    <string name="brand">Brand</string>
+    <string name="price">Price</string>
+    <string name="model">Model</string>
+    <string name="try_now">Try now</string>
+    <string name="next">Next</string>
+    <string name="previous">previous</string>
+</resources>
